@@ -2,8 +2,8 @@
 -------------------------------------------------- */
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: @screen-xs-max) {
-  carousel-caption {
-  display: none;
+  .carousel-caption {
+    display: none;
   }
   .carousel-indicators {
     display:none;
