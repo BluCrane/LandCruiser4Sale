@@ -13,24 +13,24 @@
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
  .carousel-caption h3 {
-  margin-bottom: 0 0 30% 0;
+  margin: 0 0 30% 0;
   }
   .carousel-caption p {
-  margin:0 10%;
+  margin: 0 10%;
   }
 }
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
  .carousel-caption p {
-  margin:0 25%;
+  margin: 0 25%;
   }
 }
 
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
   .carousel-caption h3 {
-  margin-bottom: 0 0 40% 0;
+  margin: 0 0 40% 0;
   }
 
 }
