@@ -12,7 +12,8 @@
 
 .carousel-caption p {
   margin:0 10%;
-  padding: 0;
+  padding: 0.5em;
+  background-color: rgba(0,0,0,0.5);
 }
 
 
@@ -40,7 +41,7 @@
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
   .carousel-caption h3 {
-    margin: 10% 0 40%;
+    margin: 10% 0 45%;
   }
  .carousel-caption p {
     margin: 0 20%;
