@@ -1,7 +1,7 @@
 /* Custom page CSS
 -------------------------------------------------- */
 /* Extra small devices (phones, less than 768px) */
-@media (max-width: @screen-xs-max) {
+@media only screen and (max-width : 768px) {
 .carousel-caption {
   display: none;
   }
@@ -10,20 +10,17 @@
   }
 }
 
-/* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm-min) {
-  
-  
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
 }
 
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md-min) {
-  
-  
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
 }
 
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-lg-min) {
-  
-  
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
 }
