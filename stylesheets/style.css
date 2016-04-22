@@ -20,7 +20,7 @@
   bottom: 0;
 }
 
-.carousel-indicators ol {
+ol.carousel-indicators {
   margin: 0;
 }
 
