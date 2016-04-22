@@ -16,6 +16,14 @@
   background-color: rgba(0,0,0,0.5);
 }
 
+.carousel-indicators {
+  bottom: 0;
+}
+
+.carousel-indicators ol {
+  margin: 0;
+}
+
 
 /* ---- MEDIA QUERIES ---- */
 /* Extra small devices (phones, less than 768px) */
