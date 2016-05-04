@@ -61,6 +61,10 @@ ol.carousel-indicators {
   background: burlywood;
 }
 
+#extras td {
+  font-size: 10px;
+}
+
 /* ---- MEDIA QUERIES ---- */
 /* Extra small devices (phones, less than 768px) */
 @media only screen and (max-width : 768px) {
