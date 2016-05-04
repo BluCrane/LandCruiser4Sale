@@ -57,6 +57,9 @@ ol.carousel-indicators {
   color: orangered;
 }
 
+#extras {
+  background: burlywood;
+}
 
 /* ---- MEDIA QUERIES ---- */
 /* Extra small devices (phones, less than 768px) */
