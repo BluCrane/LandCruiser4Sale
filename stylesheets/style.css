@@ -42,8 +42,19 @@ ol.carousel-indicators {
     border-radius: 0;
 }
 
+.nav-tabs>li.active>a {
+    border-bottom: solid 1px #ddd;
+    border-top: 1px solid #fff;
+    border-left: none;
+    border-right: none;
+}
+
 .nav>li>a {
     padding: 0.5em 0 0.5em 0.5em;
+}
+
+.tab-pane h4 {
+  color: orangered;
 }
 
 
