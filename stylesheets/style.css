@@ -24,9 +24,12 @@ ol.carousel-indicators {
   margin-bottom: 0;
 }
 
+.page-header .label {
+  line-height: 3;
+}
+
 .page-header p.lead {
-  width: 70%;
-  margin: 1em auto;
+  margin: 0 auto 1em;
   }
 
 .nav-tabs {
