@@ -79,6 +79,11 @@ ol.carousel-indicators {
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
 
+.page-header p.lead {
+  width: 70%;
+  margin: 30px auto;
+  }
+
 }
 
 /* Medium Devices, Desktops */
