@@ -73,6 +73,10 @@ ol.carousel-indicators {
     background-color: #f5f5f5;
 }
 
+#row3 {
+  background-color: #f0ad4e;
+}
+
 /* ---- MEDIA QUERIES ---- */
 /* Extra small devices (phones, less than 768px) */
 @media only screen and (max-width : 768px) {
