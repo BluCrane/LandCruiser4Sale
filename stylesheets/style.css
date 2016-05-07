@@ -69,7 +69,9 @@ ol.carousel-indicators {
   background: burlywood;
 }
 
-
+.list-group-item {
+    background-color: #f5f5f5;
+}
 
 /* ---- MEDIA QUERIES ---- */
 /* Extra small devices (phones, less than 768px) */
