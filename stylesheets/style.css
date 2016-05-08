@@ -69,6 +69,10 @@ ol.carousel-indicators {
   background: burlywood;
 }
 
+.popup-cursor {
+  cursor: pointer;
+}
+
 #cont2 {
   margin-top: 2em;
 }
