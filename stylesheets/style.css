@@ -69,12 +69,20 @@ ol.carousel-indicators {
   background: burlywood;
 }
 
+#cont2 {
+  margin-top: 2em;
+}
+
 .list-group-item {
     background-color: #f5f5f5;
 }
 
 #row3 {
   background-color: #f0ad4e;
+}
+
+#cruiserimg {
+  padding-top: 2em;
 }
 
 /* ---- MEDIA QUERIES ---- */
