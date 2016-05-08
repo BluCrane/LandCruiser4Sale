@@ -90,6 +90,14 @@ ol.carousel-indicators {
   padding-top: 2em;
 }
 
+#cont3 {
+  background-color: orangered;
+}
+
+#cont3 p {
+  color: orange;
+}
+
 /* ---- MEDIA QUERIES ---- */
 /* Extra small devices (phones, less than 768px) */
 @media only screen and (max-width : 768px) {
