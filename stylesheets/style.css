@@ -69,6 +69,10 @@ ol.carousel-indicators {
   background: burlywood;
 }
 
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #f0ad4e;
+}
+
 .popup-cursor {
   cursor: pointer;
   color: #337ab7;
