@@ -24,6 +24,10 @@ ol.carousel-indicators {
   margin-bottom: 0;
 }
 
+.page-header {
+  background: url(https://cloud.githubusercontent.com/assets/9150985/15799801/1b0300e8-2a69-11e6-9e9b-dc77fb7ffabc.png) center center no-repeat,;
+}
+
 .page-header .label {
   line-height: 3;
 }
