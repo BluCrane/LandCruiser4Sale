@@ -1,0 +1,4 @@
+name: Toyota Land Cruiser for Sale
+markdown: kramdown
+gems:
+  - jekyll-sitemap
