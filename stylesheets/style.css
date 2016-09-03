@@ -1,20 +1,33 @@
 /* Custom page CSS
 -------------------------------------------------- */
 .corner-ribbon {
+    padding: 1px;
     width: 400px;
     background: #79A70A;
     background: linear-gradient(#9BC90D 0%, #79A70A 100%);
     box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
     position: fixed;
     top: 100px;
-    left: -100px;
+    left: -85px;
     text-align: center;
-    line-height: 50px;
     letter-spacing: 1px;
     color: #f0f0f0;
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
     z-index: 1;
+}
+
+#ribbon1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: large;
+}
+
+#ribbon2 {
+    font-size: small;
+    color: green;
+    text-shadow: 1px 1px 1px #e2dada;
+    font-weight: bold;
 }
 
 
